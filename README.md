@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Damian Peña</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=3DF779&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Fullstack+Developer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&color=3DF779&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Fullstack+Developer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p>
 <p align="center">
   <img src="" width="300" height="auto" alt="Coding"/>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">Hi my name is Damian! I am a Fullstack developer. Passionate about computers, programming an AI. My interests includes:</p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=3DF779&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&color=3DF779&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
 </p>
 <p align="center">Currently learning -> AI and Machine Learning</p>
 <p align="center">Currently working on -> Private Projects</p>
