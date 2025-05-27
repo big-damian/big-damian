@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/big-damian/melodymetrics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=melodymetrics&theme=transparent" alt="C"></a>
 <a href="https://github.com/big-damian/Cripto_Utilidades_Damian"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=Cripto_Utilidades_Damian&theme=transparent" alt="C++"></a>
 <a href="https://github.com/big-damian/DiskSpaceWarning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=DiskSpaceWarning&theme=transparent" alt="Java"></a>
-<a href="https://github.com/big-damian/aissistant-preview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=Jungle-Runner-TestGame1&theme=transparent" alt="Python"></a>
+<a href="https://github.com/big-damian/aissistant-preview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=big-damian&repo=aissistant-preview&theme=transparent" alt="React Native"></a>
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
